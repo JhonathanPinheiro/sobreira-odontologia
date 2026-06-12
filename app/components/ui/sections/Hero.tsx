@@ -54,7 +54,7 @@ export function Hero() {
             </a>
           </div>
 
-          <dl className="mt-10 grid grid-cols-3 gap-4 border-t border-border pt-8">
+          <dl className="mt-10 flex flex-wrap justify-center md:grid grid-cols-3 gap-4 border-t border-border pt-8">
             <div>
               <dt className="text-xs uppercase tracking-wider text-muted-foreground">Pacientes</dt>
               <dd className="mt-1 font-display text-2xl font-bold text-foreground">+1.500</dd>
