@@ -37,6 +37,14 @@ export const metadata: Metadata = {
     type: "website",
     url: "/",
     locale: "pt_BR",
+    images: [
+      {
+        url: "/images/og-image.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Clínica Odontológica em João Pessoa",
+      },
+    ],
   },
 };
 
